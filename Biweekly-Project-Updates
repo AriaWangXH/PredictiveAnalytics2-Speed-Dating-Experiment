@@ -1,2 +1,31 @@
-01/17/2019
+01/17/2020
+For this week, we decided on the dataset for this project, which is the Speed Dating Experiment dataset on Kaggle 
+(https://www.kaggle.com/annavictoria/speed-dating-experiment). The dataset consists of experiment data gathered by 
+Columbia Business School. In the experiment, participants met with other opposite-sex participants for several 
+four-minute periods and then decided whether they would like to see their date again. The rating on attractiveness, 
+sincerity, intelligence, fun, ambition and shared interests were recorded after each date. The dataset also includes 
+demographic data about each participant. The study is beneficial to the growing dating app industry. We can get a 
+better understanding of identifying the influential factors of dating, and potentially help dating apps grow their
+matching rate (Yes, love at the first sight is quantifiable).  
+
+We discussed about the overall project schedule as below:
+Week 3-4 - EDA (Biweekly report 1/31)
+Week 5-6 - Feature Engineering  (Biweekly report 2/14)
+Week 7-8 - Model Fitting & Validation (Biweekly report 2/28)
+Week 9-10 - Report Drafting (Final submission 3/13)
+
+We also thought about the sections of our final report and drafted the introduction.
+Introduction to dataset/objective
+In today’s busy world, more and more people are turning into speed dating as their ways of looking for a romantic 
+partner. For this project, our objective is to use machine learning models to explore xxx… /answer the question xxxx
+
+The primary dataset (https://www.kaggle.com/annavictoria/speed-dating-experiment)  for this project was gathered 
+from participants in experimental speed dating events from 2002-2004. During the events, the attendees would have 
+a four minute "first date" with every other participant of the opposite sex. At the end of their four minutes, 
+participants were asked if they would like to see their date again. They were also asked to rate their date on six 
+attributes: Attractiveness, Sincerity, Intelligence, Fun, Ambition, and Shared Interests.
+
+The dataset also includes questionnaire data gathered from participants at different points in the process. These 
+fields include: demographics, dating habits, self-perception across key attributes, beliefs on what others find 
+valuable in a mate, and lifestyle information.
 
